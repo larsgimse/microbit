@@ -20,7 +20,7 @@ micro:bit send serial (wet: random 1-4 x 12 hour) ** (dry: random 1-4 x 6 hour)
 <br>
 <br>
 
-
+Humidity Sensor: https://www.aliexpress.com/item/2pcs-Soil-Humidity-Sensor-Module-Hygrometer-Detection-Moisture-Sensor-Sensing-Module-for-Arduino-Automatic-Watering-System/32760389137.html
 
 <b>UPDATE:</b>
 New Python code: https://github.com/larsgimse/microbit/blob/master/eplant/python_code_02.py<br>
