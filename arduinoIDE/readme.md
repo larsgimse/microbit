@@ -12,5 +12,5 @@ Example code: https://github.com/larsgimse/microbit/tree/master/arduinoIDE/code
 
 # pins micro:bit
 
-img src="https://github.com/larsgimse/microbit/blob/master/arduinoIDE/pins_microbit.jpg">
+<img src="https://github.com/larsgimse/microbit/blob/master/arduinoIDE/pins_microbit.jpg">
 From: https://learn.adafruit.com/use-micro-bit-with-arduino/other-gpio
