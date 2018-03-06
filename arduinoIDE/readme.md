@@ -8,7 +8,7 @@ https://github.com/adafruit/Adafruit_NeoPixel
 
 <img src="https://github.com/larsgimse/microbit/blob/master/arduinoIDE/microbit_arduinoIDE.JPG" width="450"><br>
 
-My example code: https://github.com/larsgimse/microbit/tree/master/arduinoIDE/code
+Example code: https://github.com/larsgimse/microbit/tree/master/arduinoIDE/code
 
 
 
