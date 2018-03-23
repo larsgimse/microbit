@@ -19,7 +19,7 @@ http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/Avlopsmu
 
 http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/PP-ror-2000018289/
 
-http://www.biltema.no/no/Bygg/Teip/Elteip/Elektrotape-2000038167/
+http://www.biltema.no/no/Bygg/Teip/Elteip/Elektrotape-2000038167/ (black and white)
 
 1x micro:bit<br>
 1x 60 Neopixelstrip<br>
