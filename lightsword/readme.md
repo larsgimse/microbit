@@ -21,7 +21,7 @@ http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/PP-ror-2
 
 http://www.biltema.no/no/Bygg/Teip/Elteip/Elektrotape-2000038167/
 
-1x microbit<br>
+1x micro:bit<br>
 1x 60 Neopixelstrip<br>
 1x small powerbank<br>
 1x USB cable (from powerbank to micro:bit)<br>
