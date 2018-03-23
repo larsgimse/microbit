@@ -15,9 +15,9 @@
 # parts
 From Norwegian store
 
-http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/Avlopsmuffe-med-gummitetning-2000018292/
+http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/Avlopsmuffe-med-gummitetning-2000018292/ (32mm)
 
-http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/PP-ror-2000018289/
+http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/PP-ror-2000018289/ (32mm and 1m)
 
 http://www.biltema.no/no/Bygg/Teip/Elteip/Elektrotape-2000038167/ (black and white)
 
