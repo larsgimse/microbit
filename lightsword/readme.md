@@ -15,9 +15,11 @@
 # parts
 From Norwegian store
 
-http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/Avlopsmuffe-med-gummitetning-2000018292/<br>
-http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/PP-ror-2000018289/<br>
-http://www.biltema.no/no/Bygg/Teip/Elteip/Elektrotape-2000038167/<br>
+http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/Avlopsmuffe-med-gummitetning-2000018292/
+
+http://www.biltema.no/no/Bygg/VVS/Ror-og-rordeler/Avlopsror-og-rordeler/PP-ror-2000018289/
+
+http://www.biltema.no/no/Bygg/Teip/Elteip/Elektrotape-2000038167/
 
 1x microbit<br>
 1x 60 Neopixelstrip<br>
