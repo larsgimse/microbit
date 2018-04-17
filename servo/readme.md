@@ -2,5 +2,5 @@
 
 <img src="https://github.com/larsgimse/microbit/blob/master/servo/servo_microbit.png">
 
-Makecode: https://makecode.microbit.org/_aCwFH9ec6dzk
+Makecode: https://makecode.microbit.org/_aCwFH9ec6dzk<br>
 Video: https://www.instagram.com/p/BRSxGCPhwWy
