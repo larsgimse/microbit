@@ -44,3 +44,4 @@ Python code: https://github.com/larsgimse/microbit/blob/master/eplant/microbit_t
 https://makecode.microbit.org/_CttLWf7vLbU7
 Test with potensiometer
 
+<img src="https://github.com/larsgimse/microbit/blob/master/eplant/digi_plant_bb.png">
