@@ -26,7 +26,7 @@ micro:bit send serial (wet: random 1-4 x 12 hour) ** (dry: random 1-4 x 6 hour)
 
 <b>UPDATE:</b>
 New Python code: https://github.com/larsgimse/microbit/blob/master/eplant/python_code_02.py<br>
-micro:bit code: https://makecode.microbit.org/_X28CEK1M7Abg<br>
+micro:bit code: https://makecode.microbit.org/_fkHU9tMUjVxk<br>
 Plant on Twitter: https://twitter.com/digi_plant<br>
 <br>
 <img src="https://github.com/larsgimse/microbit/blob/master/eplant/digi_plant_01.png">
