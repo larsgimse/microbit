@@ -13,5 +13,8 @@ https://media.readthedocs.org/pdf/microbit-micropython/latest/microbit-micropyth
 
 Some simple code:<br>
 <br>
-3xLED fade in / out: https://makecode.microbit.org/_PXXXaVJK9RV0
+3xLED fade in / out:<br>
+https://makecode.microbit.org/_PXXXaVJK9RV0<br>
+https://makecode.microbit.org/_ejRi6d9DYPVD<br>
+
 
