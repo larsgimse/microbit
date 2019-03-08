@@ -10,3 +10,8 @@ Files with PY use Python<br>
 
 Learing and recode MicroPython from 
 https://media.readthedocs.org/pdf/microbit-micropython/latest/microbit-micropython.pdf
+
+Some simple code:<br>
+<br>
+3xLED fade in / out: https://makecode.microbit.org/_PXXXaVJK9RV0
+
